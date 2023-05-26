@@ -1,0 +1,1 @@
+Activity, develop a program that requests a 2-digit number, with that number the system will apply a sum between them.

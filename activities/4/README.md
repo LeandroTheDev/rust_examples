@@ -1,0 +1,1 @@
+Activity, make a system that receives a specific number to be the amount of grades of the student, in this make a repeater that receives all the grades and in the end returns an average if the student passed or not.

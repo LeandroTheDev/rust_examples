@@ -1,0 +1,1 @@
+Activity, create a struct using: name, password, islogged, use impl to create a function that says whether the customer is logged in or not.

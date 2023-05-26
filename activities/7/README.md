@@ -1,0 +1,1 @@
+Activity, make a program that creates a .txt file, and then writes to it and reads it in the terminal

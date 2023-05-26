@@ -1,0 +1,1 @@
+Activity, make a program that request a number and than make a sum with a array of numbers.

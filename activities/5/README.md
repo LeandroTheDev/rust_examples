@@ -1,0 +1,1 @@
+Activity, make the terminal receive a String with spaces, then remove these spaces and output in the terminal

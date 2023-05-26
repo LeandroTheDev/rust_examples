@@ -1,0 +1,1 @@
+Activity, develop a program where the system requests 2 numbers, and in these 2 numbers the program differentiates if it is greater or lesser
